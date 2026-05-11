@@ -1,0 +1,5 @@
+Date,Mileage,FuelConsumption,TirePressure,OilLifePercentage,EngineWarningLight,BatteryVoltage,BrakePadWearPercentage
+5/1/2026,45230,11.5,32,40,False,12.6,45
+5/10/2026,45510,10.9,31,28,False,12.4,55
+5/20/2026,45890,10.1,29,15,True,12.1,72
+5/28/2026,46200,9.8,28,8,True,11.9,84

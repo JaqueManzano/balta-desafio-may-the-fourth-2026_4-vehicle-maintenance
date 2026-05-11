@@ -20,5 +20,9 @@
   <ItemGroup>
     <ProjectReference Include="..\AutoCareAI.Core\AutoCareAI.Core.csproj" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Samples\" />
+  </ItemGroup>
 
 </Project>
